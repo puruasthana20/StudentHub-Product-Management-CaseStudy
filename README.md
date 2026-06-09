@@ -170,7 +170,7 @@ Product Management Case Study created as part of learning and practicing product
 
 ## User Research Results
 
-![Survey Results](Assets/SurveyResult.png)
+![Survey Results](Assets/SurveyResult..png)
 
 ## Jira Sprint Planning
 
@@ -178,4 +178,4 @@ Product Management Case Study created as part of learning and practicing product
 
 ## Figma Wireframes
 
-![Figma Wireframes](Assets/wireframes.png)
+![Figma Wireframes](Assets/wireframe.png)
