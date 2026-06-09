@@ -167,3 +167,15 @@ StudentHub-Product-Case-Study
 Puru Asthana
 
 Product Management Case Study created as part of learning and practicing product discovery, planning, and prioritization methodologies.
+
+## User Research Results
+
+![Survey Results](Assets/SurveyResult.png)
+
+## Jira Sprint Planning
+
+![Jira Sprint Board](Assets/backlog.png)
+
+## Figma Wireframes
+
+![Figma Wireframes](Assets/wireframes.png)
