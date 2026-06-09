@@ -46,6 +46,11 @@ Several students reported missing opportunities because information was spread a
 Students preferred a centralized platform where all opportunities could be accessed.
 
 ---
+## Key Research Insight
+
+> 100% of surveyed students reported missing at least one opportunity due to lack of awareness.
+
+This insight motivated the creation of StudentHub as a centralized opportunity discovery platform.
 
 # 4. Product Vision
 
@@ -228,3 +233,15 @@ StudentHub is expected to:
 * Improve student engagement.
 
 The project demonstrates end-to-end product management activities including user research, problem definition, feature prioritization, sprint planning, wireframing, and roadmap creation.
+
+## User Research Results
+
+![Survey Results](Assets/SurveyResult.png)
+
+## Jira Sprint Planning
+
+![Jira Sprint Board](Assets/backlog.png)
+
+## Figma Wireframes
+
+![Figma Wireframes](Assets/wireframes.png)
